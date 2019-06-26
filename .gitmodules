@@ -1,0 +1,12 @@
+[submodule "ilnlp-lexica"]
+	path = ilnlp-lexica
+	url = https://github.com/pkolachi/ilnlp-lexica.git
+[submodule "ilnlp-corporamulti"]
+	path = ilnlp-corporamulti
+	url = https://github.com/pkolachi/ilnlp-corporamulti.git
+[submodule "ilnlp-corporamono"]
+	path = ilnlp-corporamono
+	url = https://github.com/pkolachi/ilnlp-corporamono.git
+[submodule "ilnlp-treebanks"]
+	path = ilnlp-treebanks
+	url = https://github.com/pkolachi/ilnlp-treebanks.git
