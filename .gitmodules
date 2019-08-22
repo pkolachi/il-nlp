@@ -10,3 +10,6 @@
 [submodule "ilnlp-treebanks"]
 	path = ilnlp-treebanks
 	url = https://github.com/pkolachi/ilnlp-treebanks.git
+[submodule "ilnlp-tools"]
+	path = ilnlp-tools
+	url = https://github.com/pkolachi/ilnlp-tools.git
